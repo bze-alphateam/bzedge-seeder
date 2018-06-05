@@ -390,13 +390,10 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {
-        "seed.btcz.life",
-        "btcz-us.crypt29.net",
-        "dnsseed.kemperink.org",
-        "btzseed.blockhub.info",
-        "btcz.es",
-        "btcz.vnminers.com",
         "btcz.kovach.biz",
+        "seed.btcz.life",
+        "bzseed.secnode.tk",
+        "btzseed.blockhub.info",
         ""
     };
 static const string testnet_seeds[] = {""};
