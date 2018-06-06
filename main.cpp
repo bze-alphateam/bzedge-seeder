@@ -394,6 +394,8 @@ static const string mainnet_seeds[] = {
         "seed.btcz.life",
         "bzseed.secnode.tk",
         "btzseed.blockhub.info",
+        "seed.btcz.biz",
+        "btczseed.1ds.us",
         ""
     };
 static const string testnet_seeds[] = {""};
